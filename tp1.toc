@@ -1,0 +1,5 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation du TP}{1}
+\contentsline {section}{\numberline {2}Variables al\IeC {\'e}atoires monodimensionnelles}{1}
+\contentsline {section}{\numberline {3}Variables al\IeC {\'e}atoires bi-dimensionnelles}{5}
+\contentsline {section}{\numberline {4}Somme de variables al\IeC {\'e}atoires}{10}
